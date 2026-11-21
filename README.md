@@ -30,16 +30,21 @@ Tenho interesse em oportunidades de **Desenvolvedor Front-End Júnior** e **Full
 
 ## Projetos em destaque
 
-Estes projetos mostram diferentes aspectos do meu trabalho, de interfaces responsivas a sistemas com regras de negócio e persistência.
+Seleção de aplicações com código disponível. As imagens abaixo são **capas visuais dos projetos**, já existentes no meu portfólio, e não substituem a demonstração funcional.
 
-| Projeto | Tecnologias verificadas | O que demonstra |
+| | |
+| --- | --- |
+| [![Nexus ERP](https://raw.githubusercontent.com/Davi-silv/portifolio-future/main/public/projects/nexus-erp.webp)](https://github.com/Davi-silv/nexus-erp) **[Nexus ERP](https://github.com/Davi-silv/nexus-erp)** — JavaScript, Vite, gestão financeira e testes | [![Nexus Food](https://raw.githubusercontent.com/Davi-silv/portifolio-future/main/public/projects/nexus-food.webp)](https://github.com/Davi-silv/Nexus-FOOD) **[Nexus Food](https://github.com/Davi-silv/Nexus-FOOD)** — React, Supabase, SaaS para restaurantes |
+| [![Vértice Fitness](https://raw.githubusercontent.com/Davi-silv/portifolio-future/main/public/projects/vertice-fitness.webp)](https://github.com/Davi-silv/vertice-fitness-whatsapp) **[Vértice Fitness](https://github.com/Davi-silv/vertice-fitness-whatsapp)** — Node.js, Express, gestão de academia | [![Cardápio Digital](https://raw.githubusercontent.com/Davi-silv/portifolio-future/main/public/projects/cardapio-digital.webp)](https://github.com/Davi-silv/cardapio-digital) **[Cardápio Digital](https://github.com/Davi-silv/cardapio-digital)** — HTML, CSS, JavaScript e WhatsApp |
+| [![Brigadeirice](https://raw.githubusercontent.com/Davi-silv/portifolio-future/main/public/projects/brigadeirice.webp)](https://github.com/Davi-silv/Brigadeirice) **[Brigadeirice](https://github.com/Davi-silv/Brigadeirice)** — landing page responsiva | [![Lagos Stays](https://raw.githubusercontent.com/Davi-silv/portifolio-future/main/public/projects/lagos-stays.webp)](https://lagos-stays.lovable.app/) **[Lagos Stays](https://lagos-stays.lovable.app/)** — plataforma de hospedagem; código privado |
+
+### Projetos com ênfase em arquitetura e experiência Front-End
+
+| Projeto | Tecnologias verificadas | Diferencial |
 | --- | --- | --- |
-| **[Nexus ERP](https://github.com/Davi-silv/nexus-erp)** | JavaScript, Vite, Vitest, Playwright | Gestão financeira, arquitetura modular e testes automatizados |
-| **[Nexus Food](https://github.com/Davi-silv/Nexus-FOOD)** | React, JavaScript, Supabase, Vitest | Gestão para restaurantes, estoque e organização multiempresa |
-| **[Catálogo de Pintura](https://github.com/Davi-silv/catalogo-pintura)** | Next.js, TypeScript, PostgreSQL, Prisma | Website comercial com eventos, métricas e captação de orçamentos |
-| **[Vértice Fitness](https://github.com/Davi-silv/vertice-fitness-whatsapp)** | Node.js, Express, SQLite, JavaScript | Aplicação com API, autenticação e painel administrativo |
-| **[Maison Café](https://github.com/Davi-silv/maison-cafe-cardapio)** | React, Vite, Tailwind CSS | Cardápio digital, navegação, carrinho e pedido via WhatsApp |
-| **[Portfólio Future](https://github.com/Davi-silv/portifolio-future)** | Next.js, TypeScript, Framer Motion, Three.js | Apresentação de projetos, componentes e experiência visual |
+| **[Catálogo de Pintura](https://github.com/Davi-silv/catalogo-pintura)** | Next.js, TypeScript, PostgreSQL, Prisma | Eventos, métricas e captação de orçamentos |
+| **[Maison Café](https://github.com/Davi-silv/maison-cafe-cardapio)** | React, Vite, Tailwind CSS | Catálogo, carrinho e WhatsApp |
+| **[Portfólio Future](https://github.com/Davi-silv/portifolio-future)** | Next.js, TypeScript, Framer Motion | Componentes, animações e apresentação de projetos |
 
 ### Outros projetos
 
